@@ -1,0 +1,6 @@
+[package]
+name = "ux"
+version = "0.1.0"
+authors = ["Steve Biedermann <hardliner66@gmail.com>"]
+
+[dependencies]
